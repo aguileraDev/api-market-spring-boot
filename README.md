@@ -1,9 +1,19 @@
 # API 
 
 ## Descripción
-Proyecto API REST con funciones de un supermercado como agregar un producto, recuperar la lista de productos disponibles, eliminar un producto, obtener un producto por categoria, obtener las compras realizadas realizado con **spring boot 2.75** gestor de dependencias **Gradle** y **Java 17.0.5** entorno de desarrollo **IntelliJ IDEA 2022.2.3 (Community Edition)**
+Proyecto API REST con funciones de un supermercado como agregar un producto, recuperar la lista de productos disponibles, eliminar un producto, obtener un producto por categoria, obtener las compras realizadas, desarrollado con **spring boot 2.75** gestor de dependencias **Gradle** y **Java 17.0.5** entorno de desarrollo **IntelliJ IDEA 2022.2.3 (Community Edition)**
 
 [![runApp.jpg](https://i.postimg.cc/pLXXzG9w/runApp.jpg)](https://postimg.cc/qzSTdGxw)
+
+## Base de datos
+
+PostgreSQL 15
+
+[![schema.png](https://i.postimg.cc/brBmyY5y/schema.png)](https://postimg.cc/YLQ687kZ)
+
+### Scripts
++ Data de prueba: https://drive.google.com/file/d/1O8COOpWA5tAtqjPXEBaDJiaPtYnA2B9B/view?usp=sharing
++ Esquema: https://drive.google.com/file/d/1O8COOpWA5tAtqjPXEBaDJiaPtYnA2B9B/view?usp=sharing
 
 ## Autenticación JWT - POSTMAN
 
